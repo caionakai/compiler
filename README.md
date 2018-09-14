@@ -1,5 +1,5 @@
-# compiler
-Compilador para T++
+# Descrição
+Compilador para linguagem fictícia T++
 
 ## Como instalar a highlight syntax no Notepad++
 Faça download do arquivo tpphighlightsyntax.xml:
