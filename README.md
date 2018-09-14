@@ -13,3 +13,5 @@ Importe o arquivo no menu Linguagem do Notepad++:
 ![oi](https://raw.githubusercontent.com/caionakai/compiler/master/img%20tutorial/Screenshot_9.png)
 
 ![oi](https://raw.githubusercontent.com/caionakai/compiler/master/img%20tutorial/Screenshot_10.png)
+
+Agora é só salvar e selecionar a syntax no menu de Linguagem!
